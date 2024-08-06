@@ -1,0 +1,8 @@
+# Ignore Hyperskill Assignments
+Hyperskill Simple Chat Bot with Python/
+
+# Ignore yaml files
+*.yaml
+
+# Ignore Hyperskill's req txt
+requirements.txt
